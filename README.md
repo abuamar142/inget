@@ -29,7 +29,6 @@ Download the APK that matches your device's architecture:
 | ARM64-v8a    | [Download arm64-v8a](../../releases/latest/download/inget-arm64-v8a.apk)     | For most modern Android devices (64-bit) |
 | Armeabi-v7a  | [Download armeabi-v7a](../../releases/latest/download/inget-armeabi-v7a.apk) | For older Android devices (32-bit)       |
 | x86_64       | [Download x86_64](../../releases/latest/download/inget-x86_64.apk)           | For Android emulators (64-bit)           |
-| x86          | [Download x86](../../releases/latest/download/inget-x86.apk)                 | For Android emulators (32-bit)           |
 | Universal    | [Download universal](../../releases/latest/download/inget-universal.apk)     | Works on all devices (larger size)       |
 
 ### 🔍 How to Know Your Device Architecture
@@ -81,28 +80,13 @@ Built with:
 - SharedPreferences for local storage
 - Material 3 Design
 
-## 📄 License
+## About the Developer
+Inget is developed by a passionate Flutter enthusiast who believes in the power of simplicity and efficiency. The goal is to create a seamless note-taking experience for users, allowing them to focus on what truly matters - their thoughts and ideas.
 
-```
-MIT License
+---
 
-Copyright (c) 2025 Inget
+<div align="center">
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Made with ❤️ by the developer.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+</div>
